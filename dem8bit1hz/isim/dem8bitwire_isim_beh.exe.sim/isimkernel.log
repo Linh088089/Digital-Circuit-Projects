@@ -1,0 +1,28 @@
+Command line:
+   dem8bitwire_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50302
+
+Thu Apr 17 12:56:06 2025
+
+
+ Elaboration Time: 0.03 sec
+
+ Current Memory Usage: 198.574 Meg
+
+ Total Signals          : 24
+ Total Nets             : 26
+ Total Signal Drivers   : 7
+ Total Blocks           : 4
+ Total Primitive Blocks : 3
+ Total Processes        : 11
+ Total Traceable Variables  : 21
+ Total Scalar Nets and Variables : 131
+
+ Total Simulation Time: 0.03 sec
+
+ Current Memory Usage: 276.173 Meg
+
+Thu Apr 17 12:56:26 2025
+
