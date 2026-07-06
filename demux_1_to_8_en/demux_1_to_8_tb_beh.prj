@@ -1,0 +1,3 @@
+verilog work "demux_1_to_8.v"
+verilog work "demux_1_to_8_tb.v"
+verilog work "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
