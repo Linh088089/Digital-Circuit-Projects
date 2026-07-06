@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="dem8bitsp.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="DEM8BIT_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="DEM8BIT_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="DEM8BIT_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="DEM8BIT_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ck.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ck.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ck.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="tb_DEM8BIT_1Hz_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="tb_DEM8BIT_1Hz_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="tb_DEM8BIT_1Hz_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="tb_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1744900271" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1744900270">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1744904447" xil_pn:in_ck="4359357371212" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1744904447">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ck.v"/>
+      <outfile xil_pn:name="tb.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1744900985" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="7236930332695160331" xil_pn:start_ts="1744900985">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1744900985" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="5130272794889646649" xil_pn:start_ts="1744900985">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1744900274" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="1077548276648445753" xil_pn:start_ts="1744900274">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1746721002" xil_pn:in_ck="4359357371212" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1746721002">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ck.v"/>
+      <outfile xil_pn:name="tb.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1746721004" xil_pn:in_ck="4359357371212" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-5908658217165358095" xil_pn:start_ts="1746721002">
+      <status xil_pn:value="FailedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1744900988" xil_pn:in_ck="-7779867919160155709" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-2625707246063435340" xil_pn:start_ts="1744900988">
+      <status xil_pn:value="AbortedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForced"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="tb_DEM8BIT_1Hz_isim_beh.wdb"/>
+    </transform>
+  </transforms>
+
+</generated_project>
