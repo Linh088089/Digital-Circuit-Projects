@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/ise/CodeISE/Mux_4_to_1_EN_HL/MUX_4_TO_EN_HL_TB_isim_beh.exe" -prj "/home/ise/CodeISE/Mux_4_to_1_EN_HL/MUX_4_TO_EN_HL_TB_beh.prj" "work.MUX_4_TO_EN_HL_TB" "work.glbl" 

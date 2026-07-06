@@ -1,0 +1,3 @@
+verilog work "Mux_4_to_1_EN_HL.v"
+verilog work "MUX_4_TO_EN_HL_TB.v"
+verilog work "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

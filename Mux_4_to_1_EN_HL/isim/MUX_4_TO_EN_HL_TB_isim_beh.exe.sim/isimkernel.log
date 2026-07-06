@@ -1,0 +1,28 @@
+Command line:
+   MUX_4_TO_EN_HL_TB_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  38115
+
+Wed Apr 16 13:31:34 2025
+
+
+ Elaboration Time: 0.03 sec
+
+ Current Memory Usage: 198.578 Meg
+
+ Total Signals          : 19
+ Total Nets             : 22
+ Total Signal Drivers   : 10
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 13
+ Total Traceable Variables  : 23
+ Total Scalar Nets and Variables : 111
+
+ Total Simulation Time: 0.04 sec
+
+ Current Memory Usage: 276.177 Meg
+
+Wed Apr 16 13:32:55 2025
+
